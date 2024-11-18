@@ -1,6 +1,6 @@
 ## Hi 👋! I'm Teodor
 
-I'm Full Stack Web Developer from Serbia
+I'm a Full Stack Web Developer from Serbia
 
 
 
