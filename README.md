@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi 👋! I'm Teodor<br><br>I'm a Software Engineer from Serbia with a passion for building software that solves real problems and creates meaningful experiences.<br>In my free time, I love making games in Godot — it's my creative outlet and a way to bring ideas to life through code and design.<br>
+# Hi 👋! I'm Teodor
+I'm a Software Engineer from Serbia with a passion for building software that solves real problems and creates meaningful experiences.<br>In my free time, I love making games in Godot — it's my creative outlet and a way to bring ideas to life through code and design.<br>
 
 
 # 💻 Tech Stack:
